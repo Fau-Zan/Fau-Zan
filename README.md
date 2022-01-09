@@ -1,8 +1,12 @@
 <div align="center">
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
-<p>Hi, I'm fauzan, I'm a 16 Years Old. <a href="#"> </a> Mau Ngafain bang</p>
+<p>Hi, I'm fauzan. <a href="#"> </a> Mau Ngafain bang</p>
 
+#### I study at the high school level
+- 🔭 Ngoding pakai android, meskipun susah ga harus mundur
+- 🌱 Learning JavaScript, TypeScript, MongoDb And Other Languange
+- 👯 16 Years Old
 
 ![](https://img.shields.io/badge/Fauzan-Huskar-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
