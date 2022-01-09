@@ -1,4 +1,3 @@
-<div align="center">
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
 <p>Hi, I'm fauzan <p>
@@ -14,3 +13,12 @@
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fau-Zan&langs_count=5&theme=tokyonight)]()
+
+#### Stats:  
+
+<!-- thropy -->
+<a href="https://rifqirosyidi.github.io">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=Fauzan&column=7&theme=onedark"/>
+    </p>
+</a>
