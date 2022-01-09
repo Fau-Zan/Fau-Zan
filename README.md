@@ -1,6 +1,8 @@
+<div align="center">
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
-<p>Hi, I'm fauzan <p>
+<p>Hi, I'm Fauzan </p>
+<div>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Fau-Zan&count_private=true&theme=tokyonight&showicons=true)]()
 
