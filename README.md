@@ -1,3 +1,9 @@
+<div align="center">
+<h3>Hi there 👋,</h3>
+<p>Welcome to My Profile</p>
+<p>Hi, I'm fauzan, I'm a Web Developer. Check <a href="#">ℹ️</a> For More Information.</p>
+
+
 ![](https://img.shields.io/badge/Fauzan-Huskar-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Fau-Zan&count_private=true&theme=tokyonight&showicons=true)]()
