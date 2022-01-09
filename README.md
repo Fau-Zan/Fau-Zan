@@ -1,7 +1,6 @@
-<div align="center">
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
-<p>Hi, I'm fauzan. <a href="#"> </a> Mau Ngafain bang <a href="#"> </a>
+<p>Hi, I'm fauzan. Mau Ngafain bang<p>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Fau-Zan&count_private=true&theme=tokyonight&showicons=true)]()
 
