@@ -1,7 +1,7 @@
 <div align="center">
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
-<p>Hi, I'm fauzan, I'm a Web Developer. Check <a href="#">ℹ️</a> For More Information.</p>
+<p>Hi, I'm fauzan, I'm a 16 Years Old <a href="#">ℹ️</a> Mau Ngafain bang</p>
 
 
 ![](https://img.shields.io/badge/Fauzan-Huskar-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
