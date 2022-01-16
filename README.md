@@ -2,11 +2,11 @@
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
 <p> I'm Fauzan </p>
-</div>
-
 
 ![](https://img.shields.io/badge/Fauzan-Huskar-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+
+</div>
 
 
 #### I study at the high school level
