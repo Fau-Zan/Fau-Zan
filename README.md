@@ -1,5 +1,5 @@
-<div align="center">
-<h3>Hi there 👋,</h3>
+<div align="cente">
+<h3>Hello Bang  👋,</h3>
 <p>Welcome to My Profile</p>
 <p> I'm Fauzan </p>
 </div>
@@ -10,10 +10,6 @@
 - 🌱 Learning JavaScript, TypeScript, MongoDb And Other Languange
 - 👯 16 Years Old
 
-### stats:
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Fau-Zan&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fau-Zan&langs_count=5&theme=tokyonight)]()
 
-#### Tools:
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<span style="color: cyan"> Pemikiran yang hebat membicarakan ide-ide baru. Pemikiran yang sempit membicarakan orang lain </span>
 
