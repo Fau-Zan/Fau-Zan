@@ -11,5 +11,6 @@
 - 👯 16 Years Old
 
 ```diff
-- text in red
+- halo
++ halo
 ```
