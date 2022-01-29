@@ -11,4 +11,4 @@
 - 👯 16 Years Old
 
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+Pemikiran yang hebat membicarakan ide-ide baru. Pemikiran yang sempit membicarakan orang lain) `#f03c15`
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Pemikiran yang hebat membicarakan ide-ide baru. Pemikiran yang sempit membicarakan orang lain`  
