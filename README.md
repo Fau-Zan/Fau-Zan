@@ -1,11 +1,11 @@
 <div align="cente">
 <h3>Hello Bang  👋,</h3>
-<p>Welcome to My Profile</p>
+<p>Welcome To My Profile</p>
 <p> I'm Fauzan </p>
 </div>
 
 
-#### I study at the high school level
-- 🔭 Ngoding pakai android, meskipun susah ga harus mundur
-- 🌱 Learning JavaScript, TypeScript, MongoDb And Other Languange
+#### I Study At The High School Level
+- 🔭 Android user, Aplikasi Seadanya Y G Y, 
+- 🌱 Learning JavaScript, TypeScript, Html, Css And Other Languange
 - 👯 16 Years Old
