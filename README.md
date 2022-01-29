@@ -9,8 +9,3 @@
 - 🔭 Ngoding pakai android, meskipun susah ga harus mundur
 - 🌱 Learning JavaScript, TypeScript, MongoDb And Other Languange
 - 👯 16 Years Old
-
-```diff
-- halo
-+ halo
-```
