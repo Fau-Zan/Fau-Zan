@@ -1,5 +1,5 @@
 <div align="cente">
-<h3>Hello Bang  👋,</h3>
+<h3>Hello Bang 😁,</h3>
 <p>Welcome To My Profile</p>
 <p> I'm Fauzan </p>
 </div>
