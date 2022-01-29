@@ -10,4 +10,5 @@
 - 🌱 Learning JavaScript, TypeScript, MongoDb And Other Languange
 - 👯 16 Years Old
 
-<span style="color: green"> Pemikiran yang hebat membicarakan ide-ide baru. Pemikiran yang sempit membicarakan orang lain </span>
+
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+Pemikiran yang hebat membicarakan ide-ide baru. Pemikiran yang sempit membicarakan orang lain) `#f03c15`
