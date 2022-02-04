@@ -6,6 +6,6 @@
 
 
 #### I Study At The High School Level
-- 🔭 Android user, Aplikasi Seadanya Y G Y, 
-- 🌱 Learning JavaScript, TypeScript, Html, Css And Other Languange
-- 👯 16 Years Old
+- 🔭 Makassar People
+- 🌱 Learning JavaScript, TypeScript, Html And Other Languange
+- 👯 16 Y.O
