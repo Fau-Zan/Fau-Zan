@@ -1,7 +1,6 @@
 
 ## I'm a Fauzan who enjoys coding 👀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fau-Zan&layout=compact&theme=tokyonight)](https://github.com/Fau-Zan/github-readme-stats)
 ![Fauzab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fau-Zan&show_icons=true&theme=tokyonight)
 
 #### 🎓 Learning:
