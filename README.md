@@ -1,7 +1,17 @@
 
 ## I'm a Fauzan who enjoys coding 👀
 
-![Fauzab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fau-Zan&show_icons=true&theme=tokyonight)
+
+## My Statistics
+
+|                                                                                                           |                                                                                                                                                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Github stats](https://github-readme-stats.vercel.app/api?username=Zakichanu&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) |[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zakichanu&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFFFFF&currStreakLabel=FFFFFF)](https://git.io/streak-stats) |
+
+|                                                                                                                                                                                                 |                                                                                                                                                                                  
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Zakichanu&theme=xcode&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |                                                                                                                                                                                 |  
+
 
 #### 🎓 Learning:
 - Python
