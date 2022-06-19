@@ -15,7 +15,7 @@
 
 #### 🎓 Learning:
 - Python
-- Solidjs
+- go
 
 
 #### 🎓 Languange Used:
