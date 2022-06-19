@@ -1,5 +1,5 @@
 
-## I'm a Fauzan who enjoys coding 👀
+## I'm Fauzan who enjoys coding 👀
 
 
 ## My Statistics
