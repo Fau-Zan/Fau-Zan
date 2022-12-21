@@ -14,8 +14,8 @@
 
 
 #### 🎓 Learning:
-- Python
-- go
+- Java
+- kotlin
 
 
 #### 🎓 Languange Used:
